@@ -1,3 +1,4 @@
+
 package com.projetocurso.curso.resources;
 
 import java.net.URI;
