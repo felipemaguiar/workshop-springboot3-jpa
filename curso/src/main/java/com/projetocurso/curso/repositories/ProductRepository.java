@@ -2,10 +2,10 @@ package com.projetocurso.curso.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.projetocurso.curso.entities.User;
+import com.projetocurso.curso.entities.Product;
 
 
-public interface  UserRepository extends JpaRepository<User, Long>{
+public interface  ProductRepository extends JpaRepository<Product, Long>{
 	
 	
 
